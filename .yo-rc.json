@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "todo-app",
+    "libraryId": "9b57dc59-3a8a-49bd-8cea-58c78b5ec88e",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "todo-app-client-side-solution",
+    "id": "9b57dc59-3a8a-49bd-8cea-58c78b5ec88e",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/todo-app.sppkg"
+  }
+}
